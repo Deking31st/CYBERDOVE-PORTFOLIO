@@ -3,7 +3,7 @@
 Hi, I'm Deking31—a cybersecurity enthusiast diving deep into cloud ops, ethical hacking, scripting, and endpoint defense. Through hands-on labs, I've tackled real-world challenges like deploying secure infra in Azure, running OSINT recon on global orgs, automating network diagnostics, and setting up SIEM agents. This repo showcases my projects, skills, and growth in the field. Open to collabs, junior roles, or feedback—hit me up on [X @Deking_31](https://x.com/Deking_31) or LinkedIn.
 
 ![Cyber Portfolio Banner]![banner](https://github.com/user-attachments/assets/75f15d14-2864-4b78-b071-1451f5003847) <image-card alt="CyberDove Banner" src="banner.png" ></image-card>
-!-- Replace with a custom image if you want -->
+
 
 ## 🚀 Featured Projects
 Here's a snapshot of my lab work. Dive into each folder for code, write-ups, and visuals.
