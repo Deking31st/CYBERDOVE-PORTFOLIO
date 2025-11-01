@@ -1,4 +1,4 @@
-📁 CYBERDOVE-portfolio/ # 🔒 CYBERDOVE Portfolio
+📁 CYBERDOVE Portfolio
 
 Hi, I'm Deking31—a cybersecurity enthusiast diving deep into cloud ops, ethical hacking, scripting, and endpoint defense. Through hands-on labs, I've tackled real-world challenges like deploying secure infra in Azure, running OSINT recon on global orgs, automating network diagnostics, and setting up SIEM agents. This repo showcases my projects, skills, and growth in the field. Open to collabs, junior roles, or feedback—hit me up on [X @Deking_31](https://x.com/Deking_31) or LinkedIn.
 
